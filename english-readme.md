@@ -1,5 +1,4 @@
----
-
+,
 # car_price_guess_model
 
 ---
@@ -74,6 +73,7 @@ The project was developed using the Python ecosystem and the following libraries
 * **six** – 1.17.0
 * **threadpoolctl** – 3.6.0
 * **tzdata** – 2025.2
+* **tkinter** 
 
 ---
 
@@ -86,7 +86,7 @@ To run the project on your computer, follow these steps:
 ```bash
 git clone [REPO_URL]
 cd [PROJECT_FOLDER_NAME]
-```
+````
 
 2. Create and activate a virtual environment:
 
@@ -114,6 +114,10 @@ python car_price_guess_model[MODEL_NUMBER].py
 
 ---
 
-If you want, I can also **make the Markdown fully polished and natural in English**, so it reads like a professional GitHub README.
+## 🐧 Linux Alternative Run Method
 
-Do you want me to do that?
+Click the `start` file, or run the following command in the terminal:
+
+```bash
+./start
+```

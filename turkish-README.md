@@ -72,6 +72,7 @@ Projede Python ekosistemi ve aşağıdaki kütüphaneler kullanılmıştır:
 * **six** – 1.17.0
 * **threadpoolctl** – 3.6.0
 * **tzdata** – 2025.2
+* **tkinter**
 
 ---
 
@@ -112,3 +113,13 @@ python car_price_guess_model[MODEL_NUMARASI].py
 
 ---
 
+
+# 🐧 linux alternatif çalıştırma yöntemi
+
+start dosyasına tıklayın. veya bir sonraki komudu terminalde çalıştırın.
+
+```bash
+./start
+```
+
+---

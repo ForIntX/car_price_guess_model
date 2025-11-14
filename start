@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd "$(dirname "$0")"   # Scriptin olduğu klasöre geç
+
+python3 -m venv venv   # venv oluştur (zaten varsa atlar)
+
+. venv/bin/activate    # activate komutu (source yerine . kullan)
+
+pip install -r requirements.txt
+
+python car_price_guess_model21.py
