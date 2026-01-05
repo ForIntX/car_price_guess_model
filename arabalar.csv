@@ -1,4 +1,4 @@
-﻿marka,model,araba_yasi,kilometre,motor_gucu,fiyat
+marka,model,araba_yasi,kilometre,motor_gucu,fiyat
 alfa-romeo,159,18,310100,154,539000
 alfa-romeo,159,22,535474,154,459300
 alfa-romeo,159,22,392471,154,493400
@@ -4998,7 +4998,6 @@ toyota,Corolla,10,140000,62,240000
 toyota,Corolla,10,125000,62,230000
 toyota,Corolla,11,215000,62,190000
 toyota,Corolla,11,165000,110,860000
-toyola,Corolla,11,175000,70,300000
 toyota,Corolla,11,145000,62,230000
 toyota,Corolla,12,190000,112,480000
 toyota,Corolla,12,175000,112,490000
