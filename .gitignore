@@ -1,3 +1,35 @@
+# --- Genel Gereksiz Dosyalar ---
+.DS_Store
+Thumbs.db
+
+# --- Sanal Ortamlar (Virtual Environments) ---
+# Bunları kesinlikle yüklememelisin, boyutu şişirir.
 venv/
-*.pyc
+env/
+.venv/
+myenv/
+
+# --- Python Derleme Dosyaları ---
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Özel/Gizli Anahtarlar (Çok Önemli) ---
+# Şifrelerinin olduğu dosyaları asla GitHub'a atma!
+.env
+config.py
+secrets.json
+
+# --- Editör ve IDE Ayarları ---
+.vscode/
+.idea/
+*.swp
+
+# --- Veritabanları ---
+# Yerel test veritabanını yüklemek istemeyebilirsin.
+*.sqlite3
+*.db
+
+# --- Log Dosyaları ---
+*.log
