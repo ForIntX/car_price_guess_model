@@ -8,4 +8,4 @@ python3 -m venv venv   # venv oluştur (zaten varsa atlar)
 
 pip install -r requirements.txt
 
-python car_price_guess_model21.py
+python car_price_guess_model33.py
